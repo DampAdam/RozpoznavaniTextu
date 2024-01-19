@@ -12,7 +12,7 @@ clr()
 
 
 q = 150 # kvalita (max. 200)
-aug_per_image = 50 # počet augmentovaných obrázků na obrázek
+aug_per_image = 3 # počet augmentovaných obrázků na obrázek
 min_res_factor = 1 # minimální zvětšení/zmenšení obrázku (1 = 100% z kvality)
 
 
